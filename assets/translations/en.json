@@ -1,0 +1,36 @@
+{
+    "titleAppBar": {
+        "mainpage": "News",
+        "Sports": "Sports",
+        "Health": "Health",
+        "Food": "Food",
+        "Movies": "Movies",
+        "Policy": "Policy",
+        "Economy": "Economy",
+        "Business": "Business",
+        "Weather": "Weather",
+        "Technology": "Technology",
+        "Entertainment": "Entertainment",
+        "Setting": "Setting",
+        "Info": "info"
+    },
+    "Setting": {
+        "Theme": "Dark Mode",
+        "lang": "Change Language ",
+        "English": "English",
+        "Arabic": "Arabic"
+    },
+    "Searchp": {
+        "Search Here": "Search Here",
+        "Empty": "Empty",
+        "English": "English",
+        "Arabic": "Arabic",
+        "PublishedAt": "Publish",
+        "Popularity": "Popularity",
+        "Relevancy": "Relevancy",
+        "No result": "No result",
+        "no internet connecting": "no internet connecting"
+    },
+    "About Us": "About Us"
+
+}

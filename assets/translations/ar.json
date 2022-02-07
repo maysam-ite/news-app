@@ -1,0 +1,35 @@
+{
+    "titleAppBar": {
+        "mainpage": "أخبار",
+        "Sports": "رياضة",
+        "Health": "صحة",
+        "Food": "طعام",
+        "Movies": "أفلام",
+        "Policy": "سياسة",
+        "Economy": "اقتصاد",
+        "Business": "أعمال",
+        "Weather": "طقس",
+        "Technology": "تكنولوجيا",
+        "Entertainment": "منوع",
+        "Setting": "الضبط",
+        "Info": "معلومات"
+    },
+    "Setting": {
+        "Theme": "الوضع الداكن",
+        "lang": "تغيير اللغة",
+        "English": "الانكليزية",
+        "Arabic": "العربية"
+    },
+    "About Us": "من نحن",
+    "Searchp": {
+        "Search Here": "أبحث هنا",
+        "Empty": "فارغ",
+        "English": "انكليزية",
+        "Arabic": "العربية",
+        "PublishedAt": "النشر",
+        "Popularity": "الشعبية",
+        "Relevancy": "مرتبط ب",
+        "No result": "لا يوجد نتيجة",
+        "no internet connecting": "خطأ بالاتصال"
+    }
+}

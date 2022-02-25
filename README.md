@@ -1,16 +1,23 @@
 # news_ite
 
-A new Flutter project.
+To view the latest world news
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Choose the type of news you want.
+- Browse many important articles around the world.
+- The ability to search by name and language.
+- There is an archive of previous searches.
+- Possibility to change the theme of the application in addition to the language.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Technologies used
+ - Getx statemangment.
+ - news api for get news.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### pages
+ - home page contain types.
+ - setting page.
+ - search page.
+
+
